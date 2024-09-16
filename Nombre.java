@@ -3,9 +3,14 @@ public class Nombre {
         
 
         int ola = 1;
-        System.out.println();
+        
 
-        System.out.println();
+        while (ola<=10){
+            System.out.println("GAAAAAAAAAAAAAAAAAAA");
+            ola+=1;
+        }
+
+   
     }
 
 
